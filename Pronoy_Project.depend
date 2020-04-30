@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1486048383 source:c:\users\user\desktop\pronoy\pronoy_project\doctor.cpp
+	"doctor.h"
+	"times.h"
+
+1486048416 c:\users\user\desktop\pronoy\pronoy_project\doctor.h
+	<bits/stdc++.h>
+	"times.h"
+
+1486048156 c:\users\user\desktop\pronoy\pronoy_project\times.h
+
+1486048240 source:c:\users\user\desktop\pronoy\pronoy_project\main.cpp
+	<bits/stdc++.h>
+	"doctor.h"
+	"times.h"
+
+1486048270 source:c:\users\user\desktop\pronoy\pronoy_project\times.cpp
+	<bits/stdc++.h>
+	"times.h"
+
+1486148195 source:c:\users\pronoy\desktop\pronoy_project\doctor.cpp
+	"doctor.h"
+	"times.h"
+
+1486048418 c:\users\pronoy\desktop\pronoy_project\doctor.h
+	<bits/stdc++.h>
+	"times.h"
+
+1486048158 c:\users\pronoy\desktop\pronoy_project\times.h
+
+1486048242 source:c:\users\pronoy\desktop\pronoy_project\main.cpp
+	<bits/stdc++.h>
+	"doctor.h"
+	"times.h"
+
+1486048272 source:c:\users\pronoy\desktop\pronoy_project\times.cpp
+	<bits/stdc++.h>
+	"times.h"
+
+1486048242 source:c:\users\mac\downloads\compressed\pronoy_project\main.cpp
+	<bits/stdc++.h>
+	"doctor.h"
+	"times.h"
+
+1486048418 c:\users\mac\downloads\compressed\pronoy_project\doctor.h
+	<bits/stdc++.h>
+	"times.h"
+
+1486048158 c:\users\mac\downloads\compressed\pronoy_project\times.h
+
+1486048272 source:c:\users\mac\downloads\compressed\pronoy_project\times.cpp
+	<bits/stdc++.h>
+	"times.h"
+
+1486317724 source:c:\users\pronoy\desktop\pronoy_project r\doctor.cpp
+	"doctor.h"
+	"times.h"
+
+1486048418 c:\users\pronoy\desktop\pronoy_project r\doctor.h
+	<bits/stdc++.h>
+	"times.h"
+
+1486048158 c:\users\pronoy\desktop\pronoy_project r\times.h
+
+1486317848 source:c:\users\pronoy\desktop\pronoy_project r\main.cpp
+	<bits/stdc++.h>
+	"doctor.h"
+	"times.h"
+
+1486226073 source:c:\users\pronoy\desktop\pronoy_project r\times.cpp
+	<bits/stdc++.h>
+	"times.h"
+
+1486392013 source:c:\users\tutul\desktop\pronoy_project r\doctor.cpp
+	"doctor.h"
+	"times.h"
+
+1486391996 c:\users\tutul\desktop\pronoy_project r\doctor.h
+	<bits/stdc++.h>
+	"times.h"
+
+1486048158 c:\users\tutul\desktop\pronoy_project r\times.h
+
+1486392553 source:c:\users\tutul\desktop\pronoy_project r\main.cpp
+	<bits/stdc++.h>
+	"doctor.h"
+	"times.h"
+
+1486389460 source:c:\users\tutul\desktop\pronoy_project r\times.cpp
+	<bits/stdc++.h>
+	"times.h"
+
+1486392013 source:c:\users\pronoy\desktop\pronoy_project fnd tttt\doctor.cpp
+	"doctor.h"
+	"times.h"
+
+1486391996 c:\users\pronoy\desktop\pronoy_project fnd tttt\doctor.h
+	<bits/stdc++.h>
+	"times.h"
+
+1486048158 c:\users\pronoy\desktop\pronoy_project fnd tttt\times.h
+
+1486403824 source:c:\users\pronoy\desktop\pronoy_project fnd tttt\main.cpp
+	<bits/stdc++.h>
+	"doctor.h"
+	"times.h"
+
+1486389460 source:c:\users\pronoy\desktop\pronoy_project fnd tttt\times.cpp
+	<bits/stdc++.h>
+	"times.h"
+
+1486395613 source:g:\pronoy_project fnd tttt\doctor.cpp
+	"doctor.h"
+	"times.h"
+
+1486395596 g:\pronoy_project fnd tttt\doctor.h
+	<bits/stdc++.h>
+	"times.h"
+
+1486051758 g:\pronoy_project fnd tttt\times.h
+
+1486407424 source:g:\pronoy_project fnd tttt\main.cpp
+	<bits/stdc++.h>
+	"doctor.h"
+	"times.h"
+
+1486393060 source:g:\pronoy_project fnd tttt\times.cpp
+	<bits/stdc++.h>
+	"times.h"
+
